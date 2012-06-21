@@ -22,6 +22,7 @@
 		<li><a href="reportes.jsp">Reportes</a></li>
 		<li><a href="adminusers.jsp">Admin Usuarios</a></li>
 	</ul>
+            <!-- Comentarios en index -->
 	</div>
 </body>
 </html>
